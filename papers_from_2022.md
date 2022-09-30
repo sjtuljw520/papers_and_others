@@ -222,7 +222,7 @@
 - 2020 Weng, GNN3DMOT_Graph neural network for 3D multiobject tracking with 2D-3D multi-feature learning
 - 2021 Benbarka, Score refinement for confidence-based 3D multi-object tracking
 - 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
-- 2021 Pang, SimpleTrack_Understanding and Rethinking 3D Multi-object Tracking
+- [2021 Pang, SimpleTrack_Understanding and Rethinking 3D Multi-object Tracking](https://arxiv.org/abs/2111.09621)
 - 2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences
 - 2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds
 - 2021 Yin, Center-based 3D Object Detection and Tracking
@@ -231,7 +231,7 @@
 - 2022 He, Learning Scene Dynamics from Point Cloud Sequences
 - 2022 Ruppel, Transformers for Multi-Object Tracking on Point Clouds
 - 2022 Shan, Real-time 3D Single Object Tracking with Transformer
-- 2022 Wang, Sequential Point Clouds_A Survey
+- [2022 Wang, Sequential Point Clouds_A Survey](https://arxiv.org/abs/2204.09337)
 # Light model & deploy
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
