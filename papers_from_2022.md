@@ -1,3 +1,33 @@
+- [2D object detection](#2d-object-detection)
+- [2D semantic segmentation](#2d-semantic-segmentation)
+- [BEV perception](#bev-perception)
+- [data augmentation & synthesis](#data-augmentation--synthesis)
+- [data clean & corner cases](#data-clean--corner-cases)
+- [data set & automated annotation](#data-set--automated-annotation)
+- [Depth Estimation](#depth-estimation)
+- [end-to-end perception](#end-to-end-perception)
+- [forcasting](#forcasting)
+- [lane detection](#lane-detection)
+  - [2D lane detection](#2d-lane-detection)
+    - [2018 lanenet reference](#2018-lanenet-reference)
+  - [3D lane detection](#3d-lane-detection)
+  - [automated lane annotation](#automated-lane-annotation)
+  - [lane tracking & video lane detection](#lane-tracking--video-lane-detection)
+- [others](#others)
+- [learning theory](#learning-theory)
+- [lidar](#lidar)
+  - [detection](#detection)
+  - [segmentation](#segmentation)
+  - [tracking](#tracking)
+- [Light model & deploy](#light-model--deploy)
+- [multi-modal](#multi-modal)
+- [noisy labels](#noisy-labels)
+- [prediction](#prediction)
+- [radar](#radar)
+- [semi-supervised learning](#semi-supervised-learning)
+- [SLAM & HDMap](#slam--hdmap)
+- [survey & system design](#survey--system-design)
+
 # 2D object detection
 - 2014 Girshick, Rich feature hierarchies for accurate object detection and semantic segmentation
 - 2015 Girshick, Fast R-CNN
@@ -29,6 +59,7 @@
 - 2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe
 - 2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection
 - 2022 Lu, Learning Ego 3D Representation as Ray Tracing
+- [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
 - 2022 Peng, BEVSegFormer_Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs
 - 2022 Qin, UniFormer_Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View
 - 2022 Xu, CoBEVT_Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers
