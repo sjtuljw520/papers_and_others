@@ -1,3 +1,4 @@
+Multiview Detection with Feature Perspective Transformation
 - [2D object detection](#2d-object-detection)
 - [2D semantic segmentation](#2d-semantic-segmentation)
 - [BEV perception](#bev-perception)
@@ -43,13 +44,14 @@
 - 2017 Romera, ERFNet_Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation
 - 2018 Yu, BiSeNet_ Bilateral Segmentation Network for Real-time Semantic Segmentation
 # BEV perception
-- 2020 Gao, VectorNet_Encoding HD Maps and Agent Dynamics from Vectorized Representation
+- [2019 Kim, Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://ieeexplore.ieee.org/abstract/document/8814050)
 - 2020 Ng, BEV-Seg_Bird’s Eye View Semantic Segmentation Using Geometry and Semantic Point Cloud
 - 2020 Pan, Cross-view Semantic Segmentation for Sensing Surroundings
 - 2020 Philion, Lift, Splat, Shoot_Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D
 - 2020 Reiher, A Sim2Real Deep Learning Approach for the Transformation of Images from Multiple Vehicle-Mounted Cameras to a Semantically Segmented Image in Bird’s Eye View
 - 2020 Roddick, Predicting Semantic Map Representations from Images using Pyramid Occupancy Networks
 - 2021 Can, Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images
+- [2021 Hou, Multiview Detection with Feature Perspective Transformation](https://arxiv.org/abs/2007.07247)
 - 2021 Reading, Categorical Depth Distribution Network for Monocular 3D Object Detection
 - 2022 Huang, BEVDet4D_Exploit Temporal Cues in Multi-camera 3D Object Detection
 - 2022 Huang, BEVDet_High-performance Multi-camera 3D Object Detection in Bird-Eye-View
@@ -315,9 +317,12 @@
 - 2020 Ouali, An Overview of Deep Semi-Supervised Learning
 - 2021 Zhang, FlexMatch_Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling
 # SLAM & HDMap
+- [2016 Guo, A Low-Cost Solution for Automatic Lane-Level Map Generation Using Conventional In-Car Sensors](https://ieeexplore.ieee.org/document/7422083)
 - 2018 Liang, LineNet_a Zoomable CNN for Crowdsourced High Definition Maps Modeling in Urban Environments
 - 2019 Homayounfar, DAGMapper_Learning to Map by Discovering Lane Topology
 - 2019 Li, Topological Map Extraction From Overhead Images
+- 2020 Gao, VectorNet_Encoding HD Maps and Agent Dynamics from Vectorized Representation
+- [2020 Qin, AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot](https://arxiv.org/pdf/2007.01813.pdf)
 - 2020 Shan, LIO-SAM_Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 - 2021 Shan, LVI-SAM_Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
 - 2021 Xia, High-definition map creation and update for autonomous driving
