@@ -188,7 +188,7 @@
 - 2022 Chen, PersFormer_3D Lane Detection via Perspective Transformer and the OpenLane Benchmark
 - 2022 Li, Reconstruct From Top View_A 3D Lane Detection Approach Based on Geometry Structure Prior
 - 2022 Liu, Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints
-- 2022 Luo, M2-3DLaneNet_Multi-Modal 3D Lane Detection
+- [2022 Luo, M2-3DLaneNet_Multi-Modal 3D Lane Detection](https://arxiv.org/abs/2209.05996)
 - 2022 Yan, ONCE-3DLanes_Building Monocular 3D Lane Detection
 ## automated lane annotation
 - 2012 Borkar, A Novel Lane Detection System With Efficient Ground Truth Generation
@@ -213,7 +213,7 @@
 - 2022 Li, Multi-Level Domain Adaptation for Lane Detection
 - 2022 Sato, Towards Driving-Oriented Metric for Lane Detection Models
 - 2022 Zhou, Illumination-Resilient Lane Detection by Threshold Self-Adjustment Using Newton-Based Extremum Seeking
-- 面向复杂路面的车道线智能检测方法研究_张翔
+- [2019 张翔，面向复杂路面的车道线智能检测方法研究](http://150.138.141.12/Kcms/detail/detail.aspx?filename=1019906864.nh&dbcode=CDFD&dbname=CDFD2021)
 # learning theory
 - 2016 Li, GATED GRAPH SEQUENCE NEURAL NETWORKS
 - 2017 Loshchilov, SGDR_STOCHASTIC GRADIENT DESCENT WITH WARM RESTARTS
@@ -227,13 +227,13 @@
 - 2021 Fan, Embracing Single Stride 3D Object Detector with Sparse Transformer
 - 2021 Fang, MapFusion_A General Framework for 3D Object Detection with HDMap
 - 2021 Wang, PV-RCNN_Point-Voxel Feature Set Abstraction for 3D Object Detection
-- 2022 Chen, MPPNet_Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection
+- [2022 Chen, MPPNet_Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)
 - 2022 Fan, Fully Sparse 3D Object Detection
 - 2022 Feng, SEFormer_Structure Embedding Transformer for 3D Object Detection
 - 2022 Hu, AFDetV2_Rethinking the Necessity of the Second Stage for Object Dectection from Point Clouds
 - 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
 - 2022 Shi, PillarNet_Real-Time and High-Performance Pillar-based 3D Object Detection
-- 2022 Shi, PV-RCNN++_Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection
+- [2022 Shi, PV-RCNN++_Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)
 - 2022 Xue, Point2Seq_Detecting 3D Objects as Sequences
 - 2022 Zhou, CenterFormer_Center-based Transformer for 3D Object Detection
 - 2022 Zimmer, A Survey of Robust LiDAR-based 3D Object Detection Methods for Autonomous Driving
@@ -254,9 +254,9 @@
 - 2021 Benbarka, Score refinement for confidence-based 3D multi-object tracking
 - 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
 - [2021 Pang, SimpleTrack_Understanding and Rethinking 3D Multi-object Tracking](https://arxiv.org/abs/2111.09621)
-- 2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences
-- 2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds
-- 2021 Yin, Center-based 3D Object Detection and Tracking
+- [2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2103.05073)
+- [2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds](https://arxiv.org/abs/2101.06586)
+- [2021 Yin, Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275)
 - 2021 Zaech, Learnable Online Graph Representations for 3D Multi-Object Tracking
 - 2022 Gebrehiwot, Teachers in concordance for pseudo-labeling of 3D sequential data
 - 2022 He, Learning Scene Dynamics from Point Cloud Sequences
