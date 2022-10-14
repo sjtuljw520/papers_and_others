@@ -62,9 +62,11 @@ Multiview Detection with Feature Perspective Transformation
 - 2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection
 - 2022 Lu, Learning Ego 3D Representation as Ray Tracing
 - [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
+- [2022 Park, Time Will Tell_New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443)
 - 2022 Peng, BEVSegFormer_Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs
 - 2022 Qin, UniFormer_Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View
 - 2022 Xu, CoBEVT_Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers
+- [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
 # data augmentation & synthesis
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
 - 2022 Triess, A Realism Metric for Generated LiDAR Point Clouds
@@ -186,10 +188,10 @@ Multiview Detection with Feature Perspective Transformation
 - 2020 Efrat, 3D-LaneNet+_Anchor Free Lane Detection using a Semi-Local Representation(GM, NIPSW2020)
 - 2020 Guo, Gen-LaneNet_A Generalized and Scalable Approach for 3D Lane Detection
 - 2021 Brorsson, Semi-supervised 3d lane detection through spatio-temporal consistency learned from videos
-- 2022 Bai, CurveFormer_3D Lane Detection by Curve Propagation with Curve Queries and Attention
+- [2022 Bai, CurveFormer_3D Lane Detection by Curve Propagation with Curve Queries and Attention](https://arxiv.org/abs/2209.07989)
 - 2022 Chen, PersFormer_3D Lane Detection via Perspective Transformer and the OpenLane Benchmark
-- 2022 Li, Reconstruct From Top View_A 3D Lane Detection Approach Based on Geometry Structure Prior
-- 2022 Liu, Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints
+- [2022 Li, Reconstruct From Top View_A 3D Lane Detection Approach Based on Geometry Structure Prior](https://arxiv.org/abs/2206.10098)
+- [2022 Liu, Learning to Predict 3D Lane Shape and Camera Pose from a Single Image via Geometry Constraints](https://arxiv.org/abs/2112.15351)
 - [2022 Luo, M2-3DLaneNet_Multi-Modal 3D Lane Detection](https://arxiv.org/abs/2209.05996)
 - 2022 Yan, ONCE-3DLanes_Building Monocular 3D Lane Detection
 ## automated lane annotation
