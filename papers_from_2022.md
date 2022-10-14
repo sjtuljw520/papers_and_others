@@ -227,6 +227,7 @@ Multiview Detection with Feature Perspective Transformation
 - 2022 Hruby, Learning to Solve Hard Minimal Problems
 # lidar
 ## detection
+- [2018 Yan, SECOND: Sparsely Embedded Convolutional Detection](https://www.mdpi.com/1424-8220/18/10/3337)
 - 2019 Lang, PointPillars_Fast Encoders for Object Detection from Point Cloud
 - 2021 Fan, Embracing Single Stride 3D Object Detector with Sparse Transformer
 - 2021 Fang, MapFusion_A General Framework for 3D Object Detection with HDMap
