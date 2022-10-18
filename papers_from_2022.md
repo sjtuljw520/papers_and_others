@@ -1,4 +1,4 @@
-Multiview Detection with Feature Perspective Transformation
+
 - [2D object detection](#2d-object-detection)
 - [2D semantic segmentation](#2d-semantic-segmentation)
 - [BEV perception](#bev-perception)
@@ -53,19 +53,21 @@ Multiview Detection with Feature Perspective Transformation
 - 2021 Can, Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images
 - [2021 Hou, Multiview Detection with Feature Perspective Transformation](https://arxiv.org/abs/2007.07247)
 - 2021 Reading, Categorical Depth Distribution Network for Monocular 3D Object Detection
-- 2022 Huang, BEVDet4D_Exploit Temporal Cues in Multi-camera 3D Object Detection
-- 2022 Huang, BEVDet_High-performance Multi-camera 3D Object Detection in Bird-Eye-View
-- 2022 Jiang, PolarFormer_Multi-camera 3D Object Detection with Polar Transformers
-- 2022 Li, BEVDepth_Acquisition of Reliable Depth for Multi-view 3D Object Detection
-- 2022 Li, BEVFormer_Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers
-- 2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe
-- 2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection
+- [2021 Wang, DETR3D_3D Object Detection from Multi-view Images via 3D-to-2D Queries](https://arxiv.org/abs/2110.06922)
+- [2022 Huang, BEVDet4D_Exploit Temporal Cues in Multi-camera 3D Object Detection](https://arxiv.org/abs/2203.17054)
+- [2022 Huang, BEVDet_High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790?context=cs)
+- [2022 Jiang, PolarFormer_Multi-camera 3D Object Detection with Polar Transformers](https://arxiv.org/abs/2206.15398)
+- [2022 Li, BEVDepth_Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092)
+- [2022 Li, BEVFormer_Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270)
+- [2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
+- [2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection](https://arxiv.org/abs/2203.05625)
 - 2022 Lu, Learning Ego 3D Representation as Ray Tracing
 - [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
 - [2022 Park, Time Will Tell_New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443)
-- 2022 Peng, BEVSegFormer_Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs
-- 2022 Qin, UniFormer_Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View
-- 2022 Xu, CoBEVT_Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers
+- [2022 Peng, BEVSegFormer_Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs](https://arxiv.org/abs/2203.04050)
+- [2022 Qin, UniFormer_Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View](https://arxiv.org/abs/2207.08536)
+- [2022 Xu, CoBEVT_Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202)
+- [2022 Zhao, Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)
 - [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
 # data augmentation & synthesis
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
