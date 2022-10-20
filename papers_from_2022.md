@@ -235,13 +235,16 @@
 - 2021 Fang, MapFusion_A General Framework for 3D Object Detection with HDMap
 - 2021 Wang, PV-RCNN_Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [2022 Chen, MPPNet_Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)
+- [2022 Deng, VISTA_Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention](https://arxiv.org/abs/2203.09704)
 - 2022 Fan, Fully Sparse 3D Object Detection
 - 2022 Feng, SEFormer_Structure Embedding Transformer for 3D Object Detection
 - 2022 Hu, AFDetV2_Rethinking the Necessity of the Second Stage for Object Dectection from Point Clouds
+- [2022 Huang, Rethinking Dimensionality Reduction in Grid-based 3D Object Detection](https://arxiv.org/abs/2209.09464)
 - 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
-- 2022 Shi, PillarNet_Real-Time and High-Performance Pillar-based 3D Object Detection
+- [2022 Shi, PillarNet_Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/abs/2205.07403)
 - [2022 Shi, PV-RCNN++_Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)
 - 2022 Xue, Point2Seq_Detecting 3D Objects as Sequences
+- [2022 Ye, LidarMultiNet_Towards a Unified Multi-task Network for LiDAR Perception](https://arxiv.org/abs/2209.09385)
 - 2022 Zhou, CenterFormer_Center-based Transformer for 3D Object Detection
 - 2022 Zimmer, A Survey of Robust LiDAR-based 3D Object Detection Methods for Autonomous Driving
 ## segmentation
