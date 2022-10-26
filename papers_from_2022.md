@@ -20,6 +20,7 @@
   - [detection](#detection)
   - [segmentation](#segmentation)
   - [tracking](#tracking)
+  - [others](#others-1)
 - [Light model & deploy](#light-model--deploy)
 - [multi-modal](#multi-modal)
 - [noisy labels](#noisy-labels)
@@ -257,22 +258,24 @@
 - 2022 Su, SVNet_Where SO(3) Equivariance Meets Binarization on Point Cloud Representation
 - 2022 Zhong, No Pain, Big Gain_Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces
 ## tracking
-- 2020 Chiu, Probabilistic 3D Multi-Object Tracking for Autonomous Driving
+- [2020 Chiu, Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/abs/2001.05673)
 - 2020 Poschmann, Factor Graph based 3D Multi-Object Tracking in Point Clouds
-- 2020 Weng, 3D Multi-Object Tracking_A Baseline and New Evaluation Metrics
+- [2020 Weng, 3D Multi-Object Tracking_A Baseline and New Evaluation Metrics](https://arxiv.org/abs/1907.03961)
 - 2020 Weng, GNN3DMOT_Graph neural network for 3D multiobject tracking with 2D-3D multi-feature learning
-- 2021 Benbarka, Score refinement for confidence-based 3D multi-object tracking
-- 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
+- [2021 Benbarka, Score refinement for confidence-based 3D multi-object tracking](https://arxiv.org/abs/2107.04327)
 - [2021 Pang, SimpleTrack_Understanding and Rethinking 3D Multi-object Tracking](https://arxiv.org/abs/2111.09621)
 - [2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2103.05073)
 - [2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds](https://arxiv.org/abs/2101.06586)
 - [2021 Yin, Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275)
-- 2021 Zaech, Learnable Online Graph Representations for 3D Multi-Object Tracking
-- 2022 Gebrehiwot, Teachers in concordance for pseudo-labeling of 3D sequential data
-- 2022 He, Learning Scene Dynamics from Point Cloud Sequences
+- [2021 Zaech, Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/abs/2104.11747#)
 - 2022 Ruppel, Transformers for Multi-Object Tracking on Point Clouds
 - 2022 Shan, Real-time 3D Single Object Tracking with Transformer
+## others
+- 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
+- 2022 Gebrehiwot, Teachers in concordance for pseudo-labeling of 3D sequential data
+- 2022 He, Learning Scene Dynamics from Point Cloud Sequences
 - [2022 Wang, Sequential Point Clouds_A Survey](https://arxiv.org/abs/2204.09337)
+
 # Light model & deploy
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
