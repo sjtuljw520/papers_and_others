@@ -210,7 +210,7 @@
 - 2021 Dong, A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection(2021)
 - 2021 Zhang, VIL-100_A New Dataset and a Baseline Model for Video Instance Lane Detection(中汽数据, ICCV2021)
 - 2022 Chng, RONELDv2_A faster, improved lane tracking
-# others
+## others
 - 2021 Honda, End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations
 - 2021 Lin, Semi-supervised lane detection with Deep Hough Transform(ICIP2021)
 - 2021 Shyam, Weakly Supervised Approach for Joint Object and Lane Marking Detection
