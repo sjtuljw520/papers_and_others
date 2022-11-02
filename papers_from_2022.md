@@ -14,7 +14,7 @@
   - [3D lane detection](#3d-lane-detection)
   - [automated lane annotation](#automated-lane-annotation)
   - [lane tracking & video lane detection](#lane-tracking--video-lane-detection)
-- [others](#others)
+  - [others](#others)
 - [learning theory](#learning-theory)
 - [lidar](#lidar)
   - [detection](#detection)
@@ -26,7 +26,7 @@
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
 - [radar](#radar)
-- [semi-supervised learning](#semi-supervised-learning)
+- [SSL & WSL](#ssl--wsl)
 - [SLAM & HDMap](#slam--hdmap)
 - [survey & system design](#survey--system-design)
 
@@ -210,7 +210,7 @@
 - 2021 Dong, A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection(2021)
 - 2021 Zhang, VIL-100_A New Dataset and a Baseline Model for Video Instance Lane Detection(中汽数据, ICCV2021)
 - 2022 Chng, RONELDv2_A faster, improved lane tracking
-# others
+## others
 - 2021 Honda, End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations
 - 2021 Lin, Semi-supervised lane detection with Deep Hough Transform(ICIP2021)
 - 2021 Shyam, Weakly Supervised Approach for Joint Object and Lane Marking Detection
@@ -323,8 +323,9 @@
 - 2022 Wang, LTP_Lane-based Trajectory Prediction for Autonomous Driving
 # radar
 - 2022 Paek, K-Radar_4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions
-# semi-supervised learning
+# SSL & WSL
 - 2013 Lee, Pseudo-Label_The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
+- [2017 Ratner, Snorkel-rapid training data creation with weak supervision](https://arxiv.org/abs/1711.10160)
 - 2020 Ouali, An Overview of Deep Semi-Supervised Learning
 - 2021 Zhang, FlexMatch_Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling
 # SLAM & HDMap
