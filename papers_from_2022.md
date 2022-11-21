@@ -61,6 +61,7 @@
 - [2022 Li, BEVDepth_Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092)
 - [2022 Li, BEVFormer_Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270)
 - [2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
+- [2022 Liu, Monocular BEV Perception of Road Scenes via Front-to-Top View Projection](https://arxiv.org/pdf/2211.08144.pdf)
 - [2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection](https://arxiv.org/abs/2203.05625)
 - 2022 Lu, Learning Ego 3D Representation as Ray Tracing
 - [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
@@ -71,7 +72,9 @@
 - [2022 Zhao, Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)
 - [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
 # data augmentation & synthesis
+- [2022 Guillard, Learning to Simulate Realistic LiDARs](https://arxiv.org/abs/2209.10986)
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
+- [2022 Leng, LidarAugment_Searching for Scalable 3D LiDAR Data Augmentations](https://arxiv.org/abs/2210.13488)
 - 2022 Triess, A Realism Metric for Generated LiDAR Point Clouds
 - 2022 Zyrianov, Learning to Generate Realistic LiDAR Point Clouds
 # data clean & corner cases
@@ -98,6 +101,7 @@
 - 2021 Ilin, DeepScanner_a Robotic System for Automated 2D Object Dataset Collection with Annotations
 - 2022 Kloukiniotis, CarlaScenes_A synthetic dataset for odometry in autonomous driving
 - 2022 Paek, K-Lane_Lidar Lane Dataset and Benchmark for Urban Roads and Highways
+- [2022 Shi, You Only Label Once_3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning](https://arxiv.org/pdf/2211.09302.pdf)
 - 2022 Sun, SHIFT_A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation
 # Depth Estimation
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
@@ -235,15 +239,18 @@
 - 2021 Fan, Embracing Single Stride 3D Object Detector with Sparse Transformer
 - 2021 Fang, MapFusion_A General Framework for 3D Object Detection with HDMap
 - 2021 Wang, PV-RCNN_Point-Voxel Feature Set Abstraction for 3D Object Detection
+- [2022 Cai, 3D Cascade RCNN_High Quality Object Detection in Point Clouds](https://arxiv.org/pdf/2211.08248.pdf)
 - [2022 Chen, MPPNet_Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)
 - [2022 Deng, VISTA_Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention](https://arxiv.org/abs/2203.09704)
+- [2022 Erabati, Li3DeTr_A LiDAR based 3D Detection Transformer](https://arxiv.org/pdf/2210.15365.pdf)
 - 2022 Fan, Fully Sparse 3D Object Detection
 - 2022 Feng, SEFormer_Structure Embedding Transformer for 3D Object Detection
 - 2022 Hu, AFDetV2_Rethinking the Necessity of the Second Stage for Object Dectection from Point Clouds
 - [2022 Huang, Rethinking Dimensionality Reduction in Grid-based 3D Object Detection](https://arxiv.org/abs/2209.09464)
-- 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
+- [2022 Ruppel, Transformers for Object Detection in Large Point Clouds](https://arxiv.org/pdf/2209.15258.pdf)
 - [2022 Shi, PillarNet_Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/abs/2205.07403)
 - [2022 Shi, PV-RCNN++_Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)
+- [2022 Tong, Hyperbolic Cosine Transformer for LiDAR 3D Object Detection](https://arxiv.org/ftp/arxiv/papers/2211/2211.05580.pdf)
 - 2022 Xue, Point2Seq_Detecting 3D Objects as Sequences
 - [2022 Ye, LidarMultiNet_Towards a Unified Multi-task Network for LiDAR Perception](https://arxiv.org/abs/2209.09385)
 - 2022 Zhou, CenterFormer_Center-based Transformer for 3D Object Detection
@@ -256,6 +263,7 @@
 - 2020 Tao, 3D LiDAR based Drivable Road  Region Detection for Autonomous  Vehicles
 - 2021 Xue, LiDAR-based Drivable Region Detection for Autonomous Driving
 - 2022 Su, SVNet_Where SO(3) Equivariance Meets Binarization on Point Cloud Representation
+- [2022 Uecker, Analyzing Deep Learning Representations of Point Clouds for Real-Time In-Vehicle LiDAR Perception](https://arxiv.org/pdf/2210.14612.pdf)
 - 2022 Zhong, No Pain, Big Gain_Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces
 ## tracking
 - [2020 Chiu, Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/abs/2001.05673)
@@ -267,7 +275,8 @@
 - [2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2103.05073)
 - [2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds](https://arxiv.org/abs/2101.06586)
 - [2021 Yin, Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275)
-- [2021 Zaech, Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/abs/2104.11747#)
+- [2021 Zaech, Learnable Online Graph Representations for 3D Multi-Object Tracking](https://arxiv.org/abs/2104.11747)
+- [2022 Kini, 3DMODT_Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds](https://arxiv.org/pdf/2211.00746.pdf)
 - 2022 Ruppel, Transformers for Multi-Object Tracking on Point Clouds
 - 2022 Shan, Real-time 3D Single Object Tracking with Transformer
 ## others
@@ -281,14 +290,20 @@
 # multi-modal
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
+- [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
 - 2022 Chen, Focal Sparse Convolutional Networks for 3D Object Detection
 - 2022 Chen, FUTR3D_A Unified Sensor Fusion Framework for 3D Detection
+- [2022 Gong, Multi-modal Fusion Technology based on Vehicle Information_A Survey](https://arxiv.org/abs/2211.06080)
+- [2022 Hong, Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/pdf/2211.07171.pdf)
 - 2022 Huang, Multi-modal Sensor Fusion for Auto Driving Perception_A Survey
 - 2022 Li, DeepFusion_Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
+- [2022 Li, Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
 - 2022 Li, Unifying Voxel-based Representation with Transformer for 3D Object Detection
 - 2022 Liang, BEVFusion_A Simple and Robust LiDAR-Camera Fusion Framework
 - 2022 Liu, BEVFusion_Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
+- 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
 - 2022 Mao, 3D Object Detection for Autonomous Driving_A Review and New Outlooks
+- [2022 Peri, Towards Long-Tailed 3D Detection](https://arxiv.org/pdf/2211.08691.pdf)
 - 2022 Schieber, Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation
 - 2022 Wan, From One to Many_Dynamic Cross Attention Networks for LiDAR and Camera Fusion
 - 2022 Wang, Temporal and Spatial Online Integrated Calibration for Camera and LiDAR
