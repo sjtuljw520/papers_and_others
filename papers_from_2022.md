@@ -2,9 +2,9 @@
 - [2D object detection](#2d-object-detection)
 - [2D semantic segmentation](#2d-semantic-segmentation)
 - [BEV perception](#bev-perception)
-- [data augmentation & synthesis](#data-augmentation--synthesis)
-- [data clean & corner cases](#data-clean--corner-cases)
-- [data set & automated annotation](#data-set--automated-annotation)
+- [data augmentation \& synthesis](#data-augmentation--synthesis)
+- [data clean \& corner cases](#data-clean--corner-cases)
+- [data set \& automated annotation](#data-set--automated-annotation)
 - [Depth Estimation](#depth-estimation)
 - [end-to-end perception](#end-to-end-perception)
 - [forcasting](#forcasting)
@@ -13,7 +13,7 @@
     - [2018 lanenet reference](#2018-lanenet-reference)
   - [3D lane detection](#3d-lane-detection)
   - [automated lane annotation](#automated-lane-annotation)
-  - [lane tracking & video lane detection](#lane-tracking--video-lane-detection)
+  - [lane tracking \& video lane detection](#lane-tracking--video-lane-detection)
   - [others](#others)
 - [learning theory](#learning-theory)
 - [lidar](#lidar)
@@ -21,14 +21,14 @@
   - [segmentation](#segmentation)
   - [tracking](#tracking)
   - [others](#others-1)
-- [Light model & deploy](#light-model--deploy)
+- [Light model \& deploy](#light-model--deploy)
 - [multi-modal](#multi-modal)
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
 - [radar](#radar)
-- [SSL & WSL](#ssl--wsl)
-- [SLAM & HDMap](#slam--hdmap)
-- [survey & system design](#survey--system-design)
+- [SSL \& WSL](#ssl--wsl)
+- [SLAM \& HDMap](#slam--hdmap)
+- [survey \& system design](#survey--system-design)
 
 # 2D object detection
 - 2014 Girshick, Rich feature hierarchies for accurate object detection and semantic segmentation
@@ -365,5 +365,3 @@
 - 2021 Zhang, Deep Learning in Lane Marking Detection_ A Survey
 
 **End**
-
-**TEST**
