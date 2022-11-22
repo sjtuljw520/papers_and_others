@@ -8,6 +8,7 @@
 - [Depth Estimation](#depth-estimation)
 - [end-to-end perception](#end-to-end-perception)
 - [forcasting](#forcasting)
+- [generative model](#generative-model)
 - [lane detection](#lane-detection)
   - [2D lane detection](#2d-lane-detection)
     - [2018 lanenet reference](#2018-lanenet-reference)
@@ -122,6 +123,8 @@
 - 2022 Zhang, MMFN_Multi-Modal-Fusion-Net for End-to-End Driving
 # forcasting
 - 2021 Zhou, Informer_Beyond efficient transformer for long sequence time-series forecasting
+# generative model
+- [2014 Goodfellow, Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
 # lane detection
 ## 2D lane detection
 - 2018 Neven, Towards End-to-End Lane Detection-an Instance Segmentation Approach
