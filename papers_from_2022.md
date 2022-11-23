@@ -250,6 +250,8 @@
 - 2022 Feng, SEFormer_Structure Embedding Transformer for 3D Object Detection
 - 2022 Hu, AFDetV2_Rethinking the Necessity of the Second Stage for Object Dectection from Point Clouds
 - [2022 Huang, Rethinking Dimensionality Reduction in Grid-based 3D Object Detection](https://arxiv.org/abs/2209.09464)
+- [2022 Jiang, Improving the Intra-class Long-tail in 3D Detection via Rare Example Mining](https://arxiv.org/abs/2210.08375)
+- [2022 Liu, LidarNAS_Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018)
 - [2022 Ruppel, Transformers for Object Detection in Large Point Clouds](https://arxiv.org/pdf/2209.15258.pdf)
 - [2022 Shi, PillarNet_Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/abs/2205.07403)
 - [2022 Shi, PV-RCNN++_Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463)
