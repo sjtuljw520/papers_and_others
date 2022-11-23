@@ -73,6 +73,7 @@
 - [2022 Zhao, Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)
 - [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
 # data augmentation & synthesis
+- [2020 Yang, SurfelGAN_Synthesizing Realistic Sensor Data for Autonomous Driving](https://arxiv.org/pdf/2005.03844.pdf)
 - [2022 Guillard, Learning to Simulate Realistic LiDARs](https://arxiv.org/abs/2209.10986)
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
 - [2022 Leng, LidarAugment_Searching for Scalable 3D LiDAR Data Augmentations](https://arxiv.org/abs/2210.13488)
