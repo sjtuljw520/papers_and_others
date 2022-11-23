@@ -27,6 +27,9 @@
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
 - [radar](#radar)
+- [robotics](#robotics)
+- [scene understanding](#scene-understanding)
+- [simulation](#simulation)
 - [SSL \& WSL](#ssl--wsl)
 - [SLAM \& HDMap](#slam--hdmap)
 - [survey \& system design](#survey--system-design)
@@ -344,6 +347,12 @@
 - 2022 Wang, LTP_Lane-based Trajectory Prediction for Autonomous Driving
 # radar
 - 2022 Paek, K-Radar_4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions
+# robotics
+- [2021 Roy, From Machine Learning to Robotics_Challenges and Opportunities for Embodied Intelligence](https://arxiv.org/abs/2110.15245)
+# scene understanding
+- [2020 Gemez, Lidar-based scene understanding for autonomous driving using deep learning](https://www.tesisenred.net/handle/10803/671062#page=1)
+# simulation
+- [2021 Acuna, Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation](https://arxiv.org/abs/2111.07971)
 # SSL & WSL
 - 2013 Lee, Pseudo-Label_The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
 - [2017 Ratner, Snorkel-rapid training data creation with weak supervision](https://arxiv.org/abs/1711.10160)
