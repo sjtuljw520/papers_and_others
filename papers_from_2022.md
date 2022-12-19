@@ -80,8 +80,10 @@
 - [2022 Guillard, Learning to Simulate Realistic LiDARs](https://arxiv.org/abs/2209.10986)
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
 - [2022 Leng, LidarAugment_Searching for Scalable 3D LiDAR Data Augmentations](https://arxiv.org/abs/2210.13488)
+- [2022 Lin, TauLiM: Test Data Augmentation of LiDAR Point Cloud by Metamorphic Relation](https://ieeexplore.ieee.org/document/9793740)
 - 2022 Triess, A Realism Metric for Generated LiDAR Point Clouds
 - 2022 Zyrianov, Learning to Generate Realistic LiDAR Point Clouds
+- [2022 Xiao, PolarMix_A General Data Augmentation Technique for LiDAR Point Clouds](https://arxiv.org/abs/2208.00223)
 # data clean & corner cases
 - 2009 Chandola, Anomaly Detection_ A Survey
 - 2014 Wickham, Tidy data
