@@ -358,6 +358,7 @@
 - [2017 Ratner, Snorkel-rapid training data creation with weak supervision](https://arxiv.org/abs/1711.10160)
 - 2020 Ouali, An Overview of Deep Semi-Supervised Learning
 - 2021 Zhang, FlexMatch_Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling
+- [2022 Park, DetMatch_Two Teachers are Better Than One for Joint 2D and 3D Semi-Supervised Object Detection](https://arxiv.org/abs/2203.09510)
 # SLAM & HDMap
 - [2016 Guo, A Low-Cost Solution for Automatic Lane-Level Map Generation Using Conventional In-Car Sensors](https://ieeexplore.ieee.org/document/7422083)
 - 2018 Liang, LineNet_a Zoomable CNN for Crowdsourced High Definition Maps Modeling in Urban Environments
