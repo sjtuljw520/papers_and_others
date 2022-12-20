@@ -7,6 +7,7 @@
 - [data set \& automated annotation](#data-set--automated-annotation)
 - [Depth Estimation](#depth-estimation)
 - [end-to-end perception](#end-to-end-perception)
+- [ensemble](#ensemble)
 - [forcasting](#forcasting)
 - [generative model](#generative-model)
 - [lane detection](#lane-detection)
@@ -77,6 +78,9 @@
 - [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
 # data augmentation & synthesis
 - [2020 Yang, SurfelGAN_Synthesizing Realistic Sensor Data for Autonomous Driving](https://arxiv.org/pdf/2005.03844.pdf)
+- 2021 Fang, LiDAR-Aug_A General Rendering-based Augmentation Framework for 3D Object Detection
+- 2021 Kapoor, Point Cloud Data Augmentation for Safe 3D Object Detection using Geometric Techniques
+- [2021 Wang, PointAugmenting_Cross-Modal Augmentation for 3D Object Detection](https://github.com/VISION-SJTU/PointAugmenting)
 - [2022 Guillard, Learning to Simulate Realistic LiDARs](https://arxiv.org/abs/2209.10986)
 - 2022 Jansen, Physical LiDAR Simulation in Real-Time Engine
 - [2022 Leng, LidarAugment_Searching for Scalable 3D LiDAR Data Augmentations](https://arxiv.org/abs/2210.13488)
@@ -127,6 +131,9 @@
 - 2022 Wu, YOLOP_You Only Look Once for Panoptic Driving Perception
 - 2022 Zhang, BEVerse_Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving
 - 2022 Zhang, MMFN_Multi-Modal-Fusion-Net for End-to-End Driving
+# ensemble
+- [2020 Ding, 1 st Place Solution for Waymo Open Dataset Challenge-3D Detection and Domain Adaptation]()
+- [2021 Solovyev, Weighted boxes fusion_Ensembling boxes from different object detection models](https://arxiv.org/abs/1910.13302)
 # forcasting
 - 2021 Zhou, Informer_Beyond efficient transformer for long sequence time-series forecasting
 # generative model
@@ -245,8 +252,10 @@
 ## detection
 - [2018 Yan, SECOND: Sparsely Embedded Convolutional Detection](https://www.mdpi.com/1424-8220/18/10/3337)
 - 2019 Lang, PointPillars_Fast Encoders for Object Detection from Point Cloud
+- [2019 Shi, PointRCNN_3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)
 - 2021 Fan, Embracing Single Stride 3D Object Detector with Sparse Transformer
 - 2021 Fang, MapFusion_A General Framework for 3D Object Detection with HDMap
+- [2021 Ge, Real-Time Anchor-Free Single-Stage 3D Detection with IoU-Awareness](https://arxiv.org/abs/2107.14342)
 - 2021 Wang, PV-RCNN_Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [2022 Cai, 3D Cascade RCNN_High Quality Object Detection in Point Clouds](https://arxiv.org/pdf/2211.08248.pdf)
 - [2022 Chen, MPPNet_Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)
