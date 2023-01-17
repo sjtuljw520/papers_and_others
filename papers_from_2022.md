@@ -308,12 +308,14 @@
 # Light model & deploy
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
+- [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
 - [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
 - 2022 Chen, Focal Sparse Convolutional Networks for 3D Object Detection
 - 2022 Chen, FUTR3D_A Unified Sensor Fusion Framework for 3D Detection
 - [2022 Gong, Multi-modal Fusion Technology based on Vehicle Information_A Survey](https://arxiv.org/abs/2211.06080)
+- [2022 Harley, Simple-BEV_What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959)
 - [2022 Hong, Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/pdf/2211.07171.pdf)
 - 2022 Huang, Multi-modal Sensor Fusion for Auto Driving Perception_A Survey
 - 2022 Li, DeepFusion_Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
@@ -327,6 +329,7 @@
 - 2022 Schieber, Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation
 - 2022 Wan, From One to Many_Dynamic Cross Attention Networks for LiDAR and Camera Fusion
 - 2022 Wang, Temporal and Spatial Online Integrated Calibration for Camera and LiDAR
+- [2022 Yang, DeepInteraction_3D Object Detection via Modality Interaction](https://arxiv.org/abs/2208.11112)
 - 2022 Yu, Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection
 - 2022 Zeng, LIFT_Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection
 # noisy labels
