@@ -65,11 +65,9 @@
 - [2022 Jiang, PolarFormer_Multi-camera 3D Object Detection with Polar Transformers](https://arxiv.org/abs/2206.15398)
 - [2022 Li, BEVDepth_Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092)
 - [2022 Li, BEVFormer_Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270)
-- [2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)
 - [2022 Liu, Monocular BEV Perception of Road Scenes via Front-to-Top View Projection](https://arxiv.org/pdf/2211.08144.pdf)
 - [2022 Liu, PETR_Position Embedding Transformation for Multi-View 3D Object Detection](https://arxiv.org/abs/2203.05625)
 - 2022 Lu, Learning Ego 3D Representation as Ray Tracing
-- [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
 - [2022 Park, Time Will Tell_New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443)
 - [2022 Peng, BEVSegFormer_Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs](https://arxiv.org/abs/2203.04050)
 - [2022 Qin, UniFormer_Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View](https://arxiv.org/abs/2207.08536)
@@ -324,12 +322,12 @@
 - 2022 Liang, BEVFusion_A Simple and Robust LiDAR-Camera Fusion Framework
 - 2022 Liu, BEVFusion_Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
 - 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
-- 2022 Mao, 3D Object Detection for Autonomous Driving_A Review and New Outlooks
 - [2022 Peri, Towards Long-Tailed 3D Detection](https://arxiv.org/pdf/2211.08691.pdf)
 - 2022 Schieber, Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation
 - 2022 Wan, From One to Many_Dynamic Cross Attention Networks for LiDAR and Camera Fusion
 - 2022 Wang, Temporal and Spatial Online Integrated Calibration for Camera and LiDAR
 - [2022 Yang, DeepInteraction_3D Object Detection via Modality Interaction](https://arxiv.org/abs/2208.11112)
+- [2022 Yang, RaLiBEV_Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System](https://arxiv.org/abs/2211.06108)
 - 2022 Yu, Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection
 - 2022 Zeng, LIFT_Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection
 # noisy labels
@@ -387,13 +385,14 @@
 - 2022 Saha, Translating Images into Maps
 - 2022 Teed, DROID-SLAM_Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras
 # survey & system design
-- 2019 Self-driving cars_ A survey
-- 2020 A survey of autonomous driving_Common practices and emerging technologies
+- 2019 Badue, Self-driving cars_ A survey
 - 2020 Liang, Lane Detection_ A Survey with New Results
-- 2021 A review of lane detection methods based on deep learning(PR2021)
+- 2020 YURTSEVER, A survey of autonomous driving_Common practices and emerging technologies
+- 2021 Tang, A review of lane detection methods based on deep learning(PR2021)
 - 2021 Waykole, Review on Lane Detection and Tracking Algorithms of Advanced Driver Assistance System
 - 2021 Zhang, Deep Learning in Lane Marking Detection_ A Survey
+- [2022 Li, Delving into the Devils of Bird’s-eye-view Perception_A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)
+- [2022 Ma, Vision-Centric BEV Perception-A Survey](https://arxiv.org/abs/2208.02797)
+- [2022 Mao, 3D Object Detection for Autonomous Driving_A Review and New Outlooks](https://arxiv.org/abs/2206.09474)
 
 **End**
-
-**test**
