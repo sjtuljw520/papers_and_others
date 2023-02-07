@@ -28,6 +28,7 @@
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
 - [radar](#radar)
+- [reconstruction & render](#reconstruction & render)
 - [robotics](#robotics)
 - [scene understanding](#scene-understanding)
 - [simulation](#simulation)
@@ -359,6 +360,8 @@
 - 2022 Wang, LTP_Lane-based Trajectory Prediction for Autonomous Driving
 # radar
 - 2022 Paek, K-Radar_4D Radar Object Detection Dataset and Benchmark for Autonomous Driving in Various Weather Conditions
+# reconstruction & render
+- [2022 Li, READ_Large-Scale Neural Scene Rendering for Autonomous Driving](https://arxiv.org/abs/2205.05509)
 # robotics
 - [2021 Roy, From Machine Learning to Robotics_Challenges and Opportunities for Embodied Intelligence](https://arxiv.org/abs/2110.15245)
 # scene understanding
