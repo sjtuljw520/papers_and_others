@@ -5,7 +5,7 @@
 - [data augmentation \& synthesis](#data-augmentation--synthesis)
 - [data clean \& corner cases](#data-clean--corner-cases)
 - [data set \& automated annotation](#data-set--automated-annotation)
-- [Depth Estimation](#depth-estimation)
+- [depth estimation](#depth-estimation)
 - [end-to-end perception](#end-to-end-perception)
 - [ensemble](#ensemble)
 - [forcasting](#forcasting)
@@ -23,7 +23,7 @@
   - [segmentation](#segmentation)
   - [tracking](#tracking)
   - [others](#others-1)
-- [Light model \& deploy](#light-model--deploy)
+- [light model \& deploy](#light-model--deploy)
 - [multi-modal](#multi-modal)
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
@@ -113,7 +113,7 @@
 - 2022 Paek, K-Lane_Lidar Lane Dataset and Benchmark for Urban Roads and Highways
 - [2022 Shi, You Only Label Once_3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning](https://arxiv.org/pdf/2211.09302.pdf)
 - 2022 Sun, SHIFT_A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation
-# Depth Estimation
+# depth estimation
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
 - 2022 Li, OmniFusion_360 Monocular Depth Estimation via Geometry-Aware Fusion
 # end-to-end perception
@@ -304,7 +304,7 @@
 - 2022 He, Learning Scene Dynamics from Point Cloud Sequences
 - [2022 Wang, Sequential Point Clouds_A Survey](https://arxiv.org/abs/2204.09337)
 
-# Light model & deploy
+# light model & deploy
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
 - [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
