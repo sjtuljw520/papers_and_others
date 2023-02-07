@@ -28,7 +28,7 @@
 - [noisy labels](#noisy-labels)
 - [prediction](#prediction)
 - [radar](#radar)
-- [reconstruction & render](#reconstruction & render)
+- [reconstruction \& render](#reconstruction--render)
 - [robotics](#robotics)
 - [scene understanding](#scene-understanding)
 - [simulation](#simulation)
