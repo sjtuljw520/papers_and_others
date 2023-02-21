@@ -75,6 +75,7 @@
 - [2022 Xu, CoBEVT_Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202)
 - [2022 Zhao, Cross-view Transformers for real-time Map-view Semantic Segmentation](https://arxiv.org/abs/2205.02833)
 - [2022 Zhao, JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)
+- [2023 Huang, Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2302.07817)
 # data augmentation & synthesis
 - [2020 Yang, SurfelGAN_Synthesizing Realistic Sensor Data for Autonomous Driving](https://arxiv.org/pdf/2005.03844.pdf)
 - 2021 Fang, LiDAR-Aug_A General Rendering-based Augmentation Framework for 3D Object Detection
@@ -102,6 +103,7 @@
 - 2018 Yu, BDD100K_A Diverse Driving Video Database with Scalable Annotation Tooling
 - 2019 Behley, SemanticKITTI_A Dataset for Semantic Scene Understanding of LiDAR Sequences
 - 2019 Manikandan, Deep Learning Based Automatic Video Annotation Tool for Self-Driving Car
+- 2019 Wang, LATTE_Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking
 - 2019 Zheng, Exploring OpenStreetMap Availability for Driving Environment Understanding
 - 2019 Zimmer, 3D BAT_A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams
 - 2020 Caesar, nuScenes_A multimodal dataset for autonomous driving
@@ -110,9 +112,11 @@
 - 2020 Sun, Scalability in Perception for Autonomous Driving_Waymo Open Dataset
 - 2021 Ilin, DeepScanner_a Robotic System for Automated 2D Object Dataset Collection with Annotations
 - 2022 Kloukiniotis, CarlaScenes_A synthetic dataset for odometry in autonomous driving
+- [2022 Liao, KITTI-360_A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/abs/2109.13410)
 - 2022 Paek, K-Lane_Lidar Lane Dataset and Benchmark for Urban Roads and Highways
 - [2022 Shi, You Only Label Once_3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning](https://arxiv.org/pdf/2211.09302.pdf)
 - 2022 Sun, SHIFT_A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation
+- 2023 Wu, An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation
 # depth estimation
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
 - 2022 Li, OmniFusion_360 Monocular Depth Estimation via Geometry-Aware Fusion
@@ -308,6 +312,7 @@
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
 - [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
+- [2020 Pang, CLOCs_Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://arxiv.org/abs/2009.00784)
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
 - [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
@@ -317,6 +322,7 @@
 - [2022 Harley, Simple-BEV_What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959)
 - [2022 Hong, Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/pdf/2211.07171.pdf)
 - 2022 Huang, Multi-modal Sensor Fusion for Auto Driving Perception_A Survey
+- 2022 Jiang, SemanticBEVFusion_Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection
 - 2022 Li, DeepFusion_Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
 - [2022 Li, Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
 - 2022 Li, Unifying Voxel-based Representation with Transformer for 3D Object Detection
