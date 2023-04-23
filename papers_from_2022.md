@@ -1,12 +1,13 @@
 
 - [2D object detection](#2d-object-detection)
 - [2D semantic segmentation](#2d-semantic-segmentation)
+- [2D\&3D Tracking](#2d3d-tracking)
 - [BEV perception](#bev-perception)
 - [data augmentation \& synthesis](#data-augmentation--synthesis)
 - [data clean \& corner cases](#data-clean--corner-cases)
 - [data set \& automated annotation](#data-set--automated-annotation)
 - [depth estimation](#depth-estimation)
-- [end-to-end perception](#end-to-end-perception)
+- [end-to-end \& multi task](#end-to-end--multi-task)
 - [ensemble](#ensemble)
 - [forcasting](#forcasting)
 - [generative model](#generative-model)
@@ -26,6 +27,7 @@
 - [light model \& deploy](#light-model--deploy)
 - [multi-modal](#multi-modal)
 - [noisy labels](#noisy-labels)
+- [occupancy network](#occupancy-network)
 - [prediction](#prediction)
 - [radar](#radar)
 - [reconstruction \& render](#reconstruction--render)
@@ -50,6 +52,25 @@
 - 2015 Long, Fully Convolutional Networks for Semantic Segmentation
 - 2017 Romera, ERFNet_Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation
 - 2018 Yu, BiSeNet_ Bilateral Segmentation Network for Real-time Semantic Segmentation
+# 2D&3D Tracking
+- 2000 Wan, The Unscented Kalman Filter for Nonlinear Estimation
+- 2006 Yilmaz, Object Tracking_A Survey
+- 2022 Aharon, BoT-SORT_Robust Associations Multi-Pedestrian Tracking
+- 2022 Gladkova, DirectTracker_3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment
+- 2022 Li, Time3D_End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving
+- 2022 Luo, Multiple Object Tracking_A Literature Review
+- 2022 Wang, Recent Advances in Embedding Methods for Multi-Object Tracking_A Survey
+- 2022 Yang, Quality Matters_Embracing Quality Clues for Robust 3D Multi-Object Tracking
+- 2022 Zhang, ByteTrack_Multi-Object Tracking by Associating Every Detection Box
+- 2023 He, 3D Multi-Object Tracking Based on Uncertainty-Guided Data Association
+- 2023 Luo, Modeling Continuous Motion for 3D Point Cloud Object Tracking
+- 2023 Luo, Real-time Multi-Object Tracking Based on Bi-directional Matching
+- 2023 Marinello, TripletTrack_3D Object Tracking using Triplet Embeddings and LSTM
+- 2023 Qin, MotionTrack_Learning Robust Short-term and Long-term Motions for Multi-Object Tracking
+- 2023 Wang, OmniTracker_Unifying Object Tracking by Tracking-with-Detection
+- 2023 Wang, Spatio-Temporal Point Process for Multiple Object Tracking
+- 基于三维视觉系统的多运动目标跟踪方法综述
+
 # BEV perception
 - [2019 Kim, Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://ieeexplore.ieee.org/abstract/document/8814050)
 - 2020 Ng, BEV-Seg_Bird’s Eye View Semantic Segmentation Using Geometry and Semantic Point Cloud
@@ -120,11 +141,12 @@
 # depth estimation
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
 - 2022 Li, OmniFusion_360 Monocular Depth Estimation via Geometry-Aware Fusion
-# end-to-end perception
+# end-to-end & multi task
 - 2019 Zhang, End-to-end Learning for Autonomous Driving
 - 2020 Chen, End-to-end Autonomous Driving Perception with Sequential Latent Representation Learning
 - 2020 Liang, Learning lane graph representations for motion forecasting
 - 2020 Liang, PnPNet_End-to-End Perception and Prediction with Tracking in the Loop
+- 2021 Duan, Location-Sensitive Visual Recognition with Cross-IOU Loss
 - 2021 Ishihara, Multi-task Learning with Attention for End-to-end Autonomous Driving
 - 2021 Phillips, Deep Multi-Task Learning for Joint Localization, Perception, and Prediction
 - 2021 Tampuu, A Survey of End-to-End Driving_Architectures and Training Methods
@@ -313,6 +335,7 @@
 # multi-modal
 - [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
 - [2020 Pang, CLOCs_Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://arxiv.org/abs/2009.00784)
+- 2020 Vora, PointPainting_Sequential Fusion for 3D Object Detection
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
 - [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
@@ -337,6 +360,7 @@
 - [2022 Yang, RaLiBEV_Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System](https://arxiv.org/abs/2211.06108)
 - 2022 Yu, Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection
 - 2022 Zeng, LIFT_Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection
+- 2023 Singh, Vision-RADAR fusion for Robotics BEV Detections_A Survey
 # noisy labels
 - 2015 Sukhbaatar, Training convolutional networks with noisy labels
 - 2017 Wang, Multiclass Learning With Partially Corrupted Labels
@@ -357,6 +381,10 @@
 - 2022 Liu, Towards Robust Adaptive Object Detection under Noisy Annotations
 - 2022 Song, Learning from Noisy Labels with Deep Neural Networks_A Survey
 - 2022 Wang, Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels
+# occupancy network
+- 2022 Li, Unifying Voxel-based Representation with Transformer for 3D Object Detection
+- 2023 Huang, Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction
+- 2023 Shi, Grid-Centric Traffic Scenario Perception for Autonomous Driving_A Comprehensive Review
 # prediction
 - 2020 Zhao, TNT_Target-driven Trajectory Prediction
 - 2021 Deo, Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals
