@@ -53,22 +53,34 @@
 - 2017 Romera, ERFNet_Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation
 - 2018 Yu, BiSeNet_ Bilateral Segmentation Network for Real-time Semantic Segmentation
 # 2D&3D Tracking
+## Unscented Kalman filter
+- 1997 Julier, A New Extension of the Kalman Filter to Nonlinear Systems
 - 2000 Wan, The Unscented Kalman Filter for Nonlinear Estimation
+- 2004 Li, Unscented Kalman filter for visual curve tracking
+- 2009 Wang, Moving Vehicle Tracking Based on Unscented Kalman Filter Algorithm
+- 2012 Fernández, Truncated Unscented Kalman Filtering
+- 2018 Chen, Tracking Multiple Moving Objects Using Unscented Kalman  Filtering Techniques
+- 2021 Wang, Multi-Object Tracking Strategy of Autonomous Vehicle Using Modiﬁed Unscented Kalman Filter and Reference Point Switching
+- 2022 Zhang, Achieving Adaptive Visual Multi-Object Tracking with Unscented Kalman Filter
+## 2D tracking
+- 2001 Reid, Estimation I
+- 2001 Reid, Estimation II
 - 2006 Yilmaz, Object Tracking_A Survey
+- 2019 Shirazi, A Step by Step Mathematical Derivation and Tutorial on Kalman Filters
 - 2022 Aharon, BoT-SORT_Robust Associations Multi-Pedestrian Tracking
-- 2022 Gladkova, DirectTracker_3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment
-- 2022 Li, Time3D_End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving
 - 2022 Luo, Multiple Object Tracking_A Literature Review
 - 2022 Wang, Recent Advances in Embedding Methods for Multi-Object Tracking_A Survey
-- 2022 Yang, Quality Matters_Embracing Quality Clues for Robust 3D Multi-Object Tracking
 - 2022 Zhang, ByteTrack_Multi-Object Tracking by Associating Every Detection Box
-- 2023 He, 3D Multi-Object Tracking Based on Uncertainty-Guided Data Association
-- 2023 Luo, Modeling Continuous Motion for 3D Point Cloud Object Tracking
 - 2023 Luo, Real-time Multi-Object Tracking Based on Bi-directional Matching
-- 2023 Marinello, TripletTrack_3D Object Tracking using Triplet Embeddings and LSTM
 - 2023 Qin, MotionTrack_Learning Robust Short-term and Long-term Motions for Multi-Object Tracking
 - 2023 Wang, OmniTracker_Unifying Object Tracking by Tracking-with-Detection
 - 2023 Wang, Spatio-Temporal Point Process for Multiple Object Tracking
+## 3D tracking
+- 2022 Gladkova, DirectTracker_3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment
+- 2022 Li, Time3D_End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving
+- 2022 Yang, Quality Matters_Embracing Quality Clues for Robust 3D Multi-Object Tracking
+- 2023 He, 3D Multi-Object Tracking Based on Uncertainty-Guided Data Association
+- 2023 Marinello, TripletTrack_3D Object Tracking using Triplet Embeddings and LSTM
 - 基于三维视觉系统的多运动目标跟踪方法综述
 
 # BEV perception
@@ -324,6 +336,7 @@
 - [2022 Kini, 3DMODT_Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds](https://arxiv.org/pdf/2211.00746.pdf)
 - 2022 Ruppel, Transformers for Multi-Object Tracking on Point Clouds
 - 2022 Shan, Real-time 3D Single Object Tracking with Transformer
+- 2023 Luo, Modeling Continuous Motion for 3D Point Cloud Object Tracking
 ## others
 - 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
 - 2022 Gebrehiwot, Teachers in concordance for pseudo-labeling of 3D sequential data
@@ -335,7 +348,11 @@
 # multi-modal
 - [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
 - [2020 Pang, CLOCs_Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://arxiv.org/abs/2009.00784)
+<<<<<<< HEAD
+- [2020 Vora, PointPainting_Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
+=======
 - 2020 Vora, PointPainting_Sequential Fusion for 3D Object Detection
+>>>>>>> 167e566857c99d7c71e429966d160fe8a66eac8c
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
 - [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
