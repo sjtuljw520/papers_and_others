@@ -53,20 +53,8 @@
 - 2017 Romera, ERFNet_Efficient Residual Factorized ConvNet for Real-Time Semantic Segmentation
 - 2018 Yu, BiSeNet_ Bilateral Segmentation Network for Real-time Semantic Segmentation
 # 2D&3D Tracking
-## Unscented Kalman filter
-- 1997 Julier, A New Extension of the Kalman Filter to Nonlinear Systems
-- 2000 Wan, The Unscented Kalman Filter for Nonlinear Estimation
-- 2004 Li, Unscented Kalman filter for visual curve tracking
-- 2009 Wang, Moving Vehicle Tracking Based on Unscented Kalman Filter Algorithm
-- 2012 Fernández, Truncated Unscented Kalman Filtering
-- 2018 Chen, Tracking Multiple Moving Objects Using Unscented Kalman  Filtering Techniques
-- 2021 Wang, Multi-Object Tracking Strategy of Autonomous Vehicle Using Modiﬁed Unscented Kalman Filter and Reference Point Switching
-- 2022 Zhang, Achieving Adaptive Visual Multi-Object Tracking with Unscented Kalman Filter
 ## 2D tracking
-- 2001 Reid, Estimation I
-- 2001 Reid, Estimation II
 - 2006 Yilmaz, Object Tracking_A Survey
-- 2019 Shirazi, A Step by Step Mathematical Derivation and Tutorial on Kalman Filters
 - 2022 Aharon, BoT-SORT_Robust Associations Multi-Pedestrian Tracking
 - 2022 Luo, Multiple Object Tracking_A Literature Review
 - 2022 Wang, Recent Advances in Embedding Methods for Multi-Object Tracking_A Survey
@@ -82,6 +70,19 @@
 - 2023 He, 3D Multi-Object Tracking Based on Uncertainty-Guided Data Association
 - 2023 Marinello, TripletTrack_3D Object Tracking using Triplet Embeddings and LSTM
 - 基于三维视觉系统的多运动目标跟踪方法综述
+## Unscented Kalman filter
+- 1997 Julier, A New Extension of the Kalman Filter to Nonlinear Systems
+- 2000 Wan, The Unscented Kalman Filter for Nonlinear Estimation
+- 2001 Reid, Estimation I
+- 2001 Reid, Estimation II
+- 2004 Li, Unscented Kalman filter for visual curve tracking
+- 2005 Chigansky, Introduction to Nonlinear Filtering
+- 2009 Wang, Moving Vehicle Tracking Based on Unscented Kalman Filter Algorithm
+- 2012 Fernández, Truncated Unscented Kalman Filtering
+- 2018 Chen, Tracking Multiple Moving Objects Using Unscented Kalman  Filtering Techniques
+- 2019 Shirazi, A Step by Step Mathematical Derivation and Tutorial on Kalman Filters
+- 2021 Wang, Multi-Object Tracking Strategy of Autonomous Vehicle Using Modiﬁed Unscented Kalman Filter and Reference Point Switching
+- 2022 Zhang, Achieving Adaptive Visual Multi-Object Tracking with Unscented Kalman Filter
 
 # BEV perception
 - [2019 Kim, Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://ieeexplore.ieee.org/abstract/document/8814050)
