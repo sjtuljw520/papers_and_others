@@ -355,11 +355,15 @@
 - [2022 Uecker, Analyzing Deep Learning Representations of Point Clouds for Real-Time In-Vehicle LiDAR Perception](https://arxiv.org/pdf/2210.14612.pdf)
 - 2022 Zhong, No Pain, Big Gain_Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces
 ## tracking
+- 2006 Bernardin, Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment
 - [2020 Chiu, Probabilistic 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/abs/2001.05673)
 - 2020 Poschmann, Factor Graph based 3D Multi-Object Tracking in Point Clouds
 - [2020 Weng, 3D Multi-Object Tracking_A Baseline and New Evaluation Metrics](https://arxiv.org/abs/1907.03961)
+- 2020 Weng, AB3DMOT_A Baseline for 3D Multi-Object Tracking and New Evaluation Metrics
 - 2020 Weng, GNN3DMOT_Graph neural network for 3D multiobject tracking with 2D-3D multi-feature learning
 - [2021 Benbarka, Score refinement for confidence-based 3D multi-object tracking](https://arxiv.org/abs/2107.04327)
+- 2021 Kim, EagerMOT_3D Multi-Object Tracking via Sensor Fusion
+- 2021 Luo, Exploring Simple 3D Multi-Object Tracking for Autonomous Driving
 - [2021 Pang, SimpleTrack_Understanding and Rethinking 3D Multi-object Tracking](https://arxiv.org/abs/2111.09621)
 - [2021 Qi, Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2103.05073)
 - [2021 Yang, Auto4D_Learning to Label 4D Objects from Sequential Point Clouds](https://arxiv.org/abs/2101.06586)
@@ -368,7 +372,9 @@
 - [2022 Kini, 3DMODT_Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds](https://arxiv.org/pdf/2211.00746.pdf)
 - 2022 Ruppel, Transformers for Multi-Object Tracking on Point Clouds
 - 2022 Shan, Real-time 3D Single Object Tracking with Transformer
+- 2023 Chen, VoxelNeXt_Fully Sparse VoxelNet for 3D Object Detection and Tracking
 - 2023 Luo, Modeling Continuous Motion for 3D Point Cloud Object Tracking
+- 2023 Ma, DetZero_Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds
 ## others
 - 2021 Hong, Garment4D_Garment Reconstruction from Point Cloud Sequences
 - 2022 Gebrehiwot, Teachers in concordance for pseudo-labeling of 3D sequential data
@@ -378,14 +384,14 @@
 # light model & deploy
 - 2020 Zhang, VarGNet_Variable Group Convolutional Neural Network for Efficient Embedded Computing
 # multi-modal
+- 2017 Chen, Multi-View 3D Object Detection Network for Autonomous Driving
+- 2019 Ku, Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation
+- 2019 Zhao, 3D Object Detection Using Scale Invariant and Feature Reweighting Networks
 - [2020 Nabati, CenterFusion_Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841)
 - [2020 Pang, CLOCs_Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://arxiv.org/abs/2009.00784)
-<<<<<<< HEAD
 - [2020 Vora, PointPainting_Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
-=======
-- 2020 Vora, PointPainting_Sequential Fusion for 3D Object Detection
->>>>>>> 167e566857c99d7c71e429966d160fe8a66eac8c
 - 2021 Xu, FusionPainting_Multimodal Fusion with Adaptive Attention for 3D Object Detection
+- 2021 Zhang, Faraway-Frustum_Dealing with Lidar Sparsity for 3D Object Detection using Fusion
 - 2022 Bai, TransFusion_Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
 - [2022 Chen, BEVDistill_Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/abs/2211.09386)
 - 2022 Chen, Focal Sparse Convolutional Networks for 3D Object Detection
@@ -401,6 +407,7 @@
 - 2022 Liang, BEVFusion_A Simple and Robust LiDAR-Camera Fusion Framework
 - 2022 Liu, BEVFusion_Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
 - 2022 Liu, Multimodal Transformer for Automatic 3D Annotation and Object Detection
+- 2022 Pang, Fast-CLOCs_ Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection
 - [2022 Peri, Towards Long-Tailed 3D Detection](https://arxiv.org/pdf/2211.08691.pdf)
 - 2022 Schieber, Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation
 - 2022 Wan, From One to Many_Dynamic Cross Attention Networks for LiDAR and Camera Fusion
