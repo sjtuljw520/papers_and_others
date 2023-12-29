@@ -171,6 +171,7 @@
 - [2015 Rezaei, Robust vehicle detection and distance estimation under challenging lighting conditions](https://eprints.whiterose.ac.uk/164835/1/T-ITS-Robust-Vehicle-Detection-2015.pdf)
 - 2015 Wu, Vehicle speed estimation using a monocular camera
 - 2016 Han, Vehicle distance estimation using a mono-camera for FCW-AEB systems
+- [2017 赵永涛, 基于CUDA的行车安全预警方法](http://www.xml-data.org/JSJYY/2017-1-134.htm)
 - 2019 Saleh, Traffic Signs Recognition and Distance Estimation Using a Monocular Camera
 - 2020 Vakili, Single–camera vehicle speed measurement using the geometry of the imaging system
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
