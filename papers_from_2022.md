@@ -160,8 +160,14 @@
 - 2023 Wu, An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation
 # depth estimation
 - [2003 P.Stein, vision-based acc with a single camera bounds on range and range rate accuracy](https://www.cs.huji.ac.il/w~shashua/papers/IV2003.pdf)
+- [2004 Dagan, Forward Collision Warning with a Single Camera](https://www.cs.huji.ac.il/w~shashua/papers/Dagan-iv2004.pdf)
 - 2010 Czajewski, Vision-Based Vehicle Speed Measurement Method
+- [2013 Seo, Use of a Monocular Camera to Analyze a Ground Vehicle’s Lateral Movements for Reliable Autonomous City Driving](https://www.cs.cmu.edu/~youngwoo/doc/ppniv-13-ywseo.pdf)
+- [2014 Chen, Integrated Vehicle and Lane Detection with Distance Estimation](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ACCV-2014/pages/workshop14/pdffiles/w14-p11.pdf)
+- [2014 Li, Pitch angle estimation using a Vehicle-Mounted monocular camera for range measurement](https://ieeexplore.ieee.org/document/7015183)
+- [2014 Park, Robust Range Estimation with a Monocular Camera for Vision-Based Forward Collision Warning System](https://www.semanticscholar.org/reader/419c90db0801860ff54c0c76026c184f940f7bab)
 - 2015 Diaz, Robust real-time traffic light detection and distance estimation using a single camera
+- [2015 Rezaei, Robust vehicle detection and distance estimation under challenging lighting conditions](https://eprints.whiterose.ac.uk/164835/1/T-ITS-Robust-Vehicle-Detection-2015.pdf)
 - 2015 Wu, Vehicle speed estimation using a monocular camera
 - 2016 Han, Vehicle distance estimation using a mono-camera for FCW-AEB systems
 - 2019 Saleh, Traffic Signs Recognition and Distance Estimation Using a Monocular Camera
