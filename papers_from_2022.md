@@ -68,20 +68,27 @@
 - 2022 Li, Time3D_End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving
 - 2022 Yang, Quality Matters_Embracing Quality Clues for Robust 3D Multi-Object Tracking
 - 2023 He, 3D Multi-Object Tracking Based on Uncertainty-Guided Data Association
+- 2023 Li, Poly-MOT_A Polyhedral Framework For 3D Multi-Object Tracking
+- 2023 Lian, DORT_Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking
 - 2023 Marinello, TripletTrack_3D Object Tracking using Triplet Embeddings and LSTM
+- 2023 Zhang, ByteTrackV2_2D and 3D Multi-Object Tracking by Associating Every Detection Box
 - 基于三维视觉系统的多运动目标跟踪方法综述
 ## Unscented Kalman filter
 - 1997 Julier, A New Extension of the Kalman Filter to Nonlinear Systems
 - 2000 Wan, The Unscented Kalman Filter for Nonlinear Estimation
 - 2001 Reid, Estimation I
 - 2001 Reid, Estimation II
+- 2003 Hu, Adaptive Kalman Filtering for Vehicle Navigation
 - 2004 Li, Unscented Kalman filter for visual curve tracking
 - 2005 Chigansky, Introduction to Nonlinear Filtering
+- 2009 Bar-Shalom, The probabilistic data association filter
 - 2009 Wang, Moving Vehicle Tracking Based on Unscented Kalman Filter Algorithm
 - 2012 Fernández, Truncated Unscented Kalman Filtering
-- 2018 Chen, Tracking Multiple Moving Objects Using Unscented Kalman  Filtering Techniques
+- 2018 Chen, Tracking Multiple Moving Objects Using Unscented Kalman Filtering Techniques
 - 2019 Shirazi, A Step by Step Mathematical Derivation and Tutorial on Kalman Filters
+- 2019 张峰, 双层无迹卡尔曼滤波
 - 2021 Wang, Multi-Object Tracking Strategy of Autonomous Vehicle Using Modiﬁed Unscented Kalman Filter and Reference Point Switching
+- 2021 Zhai, Robust Vision-Aided Inertial Navigation System for Protection Against Ego-Motion Uncertainty of Unmanned Ground Vehicle
 - 2022 Zhang, Achieving Adaptive Visual Multi-Object Tracking with Unscented Kalman Filter
 
 # BEV perception
@@ -152,7 +159,17 @@
 - 2022 Sun, SHIFT_A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation
 - 2023 Wu, An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation
 # depth estimation
+- [2003 P.Stein, vision-based acc with a single camera bounds on range and range rate accuracy](https://www.cs.huji.ac.il/w~shashua/papers/IV2003.pdf)
+- 2010 Czajewski, Vision-Based Vehicle Speed Measurement Method
+- 2015 Diaz, Robust real-time traffic light detection and distance estimation using a single camera
+- 2015 Wu, Vehicle speed estimation using a monocular camera
+- 2016 Han, Vehicle distance estimation using a mono-camera for FCW-AEB systems
+- 2019 Saleh, Traffic Signs Recognition and Distance Estimation Using a Monocular Camera
+- 2020 Vakili, Single–camera vehicle speed measurement using the geometry of the imaging system
 - 2021 Guizilini, Full Surround Monodepth from Multiple Cameras
+- 2021 LIorcal, Vision-based Vehicle Speed Estimation_A Survey
+- 2021 高崇, 基于单目相机的三点式激光器测距及位姿估计方法研究
+- 2022 Hasegawa, Distortion-Aware Self-Supervised 360° Depth Estimation from A Single Equirectangular Projection Image
 - 2022 Li, OmniFusion_360 Monocular Depth Estimation via Geometry-Aware Fusion
 # end-to-end & multi task
 - 2019 Zhang, End-to-end Learning for Autonomous Driving
@@ -265,9 +282,23 @@
 - 2021 Paek, Mixer-Based Lidar Lane Detection Network and Dataset for Urban Roads
 - 2021 Zurn, Lane Graph Estimation for Scene Understanding in Urban Driving
 ## lane tracking & video lane detection
+- 2006 McCall, Video-Based Lane Estimation and Tracking for Driver Assistance_Survey, System and Evaluation
+- 2008 Kim, Robust Lane Detection and Tracking in Challenging Scenarios
+- 2009 Hayes, ROBUST LANE DETECTION AND TRACKING WITH RANSAC AND KALMAN FILTER
+- 2009 WATANABE, Lane detection with roadside structure using on-board monocular camera
+- 2011 贾立山, 基于车道线直线模型的道路曲率估计方法
+- 2013 Sivaraman, Integrated Lane and Vehicle Detection, Localization, and Tracking_A Synergistic Approach
+- 2015 彭红, 基于扩展卡尔曼滤波器的车道线检测算法
+- 2019 Andrade, A Novel Strategy for Road Lane Detection and Tracking Based on a Vehicle’s Forward Monocular CameraTracking Based on a Vehicle’s Forward Monocular Camera
+- 2019 Song, Enhanced Lane Tracking Algorithm Using Ego-Motion Estimator for Fail-Safe Operation
+- 2019 Song, Robust lane tracking algorithm for forward target detection of automated driving vehicles
+- 2020 Marzougui, A Lane Tracking Method Based on Progressive Probabilistic Hough Transform
 - 2021 Dong, A Hybrid Spatial-temporal Deep Learning Architecture for Lane Detection(2021)
 - 2021 Zhang, VIL-100_A New Dataset and a Baseline Model for Video Instance Lane Detection(中汽数据, ICCV2021)
+- 2022 Camarda, Multi-sensor data fusion for lane boundaries detection applied to autonomous vehicle
 - 2022 Chng, RONELDv2_A faster, improved lane tracking
+- 2022 杜中强, 面向嵌入式平台的车道线检测方法
+- 2023 Sultana, Vision-Based Robust Lane Detection and Tracking under Different Challenging Environmental Conditions
 ## others
 - 2021 Honda, End-to-End Monocular Vanishing Point Detection Exploiting Lane Annotations
 - 2021 Lin, Semi-supervised lane detection with Deep Hough Transform(ICIP2021)
