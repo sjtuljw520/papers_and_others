@@ -161,6 +161,7 @@
 # depth estimation
 - [2003 P.Stein, vision-based acc with a single camera bounds on range and range rate accuracy](https://www.cs.huji.ac.il/w~shashua/papers/IV2003.pdf)
 - [2004 Dagan, Forward Collision Warning with a Single Camera](https://www.cs.huji.ac.il/w~shashua/papers/Dagan-iv2004.pdf)
+- [2009 Muller, Time To Contact Estimation Using Interest Points](https://ieeexplore.ieee.org/abstract/document/5309851)
 - 2010 Czajewski, Vision-Based Vehicle Speed Measurement Method
 - [2013 Seo, Use of a Monocular Camera to Analyze a Ground Vehicle’s Lateral Movements for Reliable Autonomous City Driving](https://www.cs.cmu.edu/~youngwoo/doc/ppniv-13-ywseo.pdf)
 - [2014 Chen, Integrated Vehicle and Lane Detection with Distance Estimation](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ACCV-2014/pages/workshop14/pdffiles/w14-p11.pdf)
