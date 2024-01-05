@@ -60,9 +60,11 @@
 - 2022 Wang, Recent Advances in Embedding Methods for Multi-Object Tracking_A Survey
 - 2022 Zhang, ByteTrack_Multi-Object Tracking by Associating Every Detection Box
 - 2023 Luo, Real-time Multi-Object Tracking Based on Bi-directional Matching
+- [2023 Moing, Dense Optical Tracking_Connecting the Dots](https://arxiv.org/abs/2312.00786)
 - 2023 Qin, MotionTrack_Learning Robust Short-term and Long-term Motions for Multi-Object Tracking
 - 2023 Wang, OmniTracker_Unifying Object Tracking by Tracking-with-Detection
 - 2023 Wang, Spatio-Temporal Point Process for Multiple Object Tracking
+- [2023 Wang, Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422)
 ## 3D tracking
 - 2022 Gladkova, DirectTracker_3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment
 - 2022 Li, Time3D_End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving
